@@ -9,8 +9,8 @@ In this Home Automation System, we will control 4 home appliances connected to R
 ![DEVICE CONNECTION](https://github.com/Ogbonna-Joseph/HOME-AUTOMATION-WITH-ESP8266/blob/main/Home-Automation-using-Blynk-Circuit.jpg)
 <br>
 ### COMPONENTS AND MODULES USED
-- ESP8266
-- FOUR CHANNEL RELAY
-- LED INDICATOR
-- BULD
-- CONNECTING WIRE
+- ESP8266.
+- FOUR CHANNEL RELAY.
+- LED INDICATOR.
+- BULD.
+- CONNECTING WIRE.
