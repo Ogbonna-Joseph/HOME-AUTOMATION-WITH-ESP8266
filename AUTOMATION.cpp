@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
  
 // Replace with your network credentials
-const char* ssid     = "MySmartHome";   //wifi name
-const char* password = "hngzhowxiantan";      //wifi password
+const char* ssid     = "********";   //wifi name
+const char* password = "********";      //wifi password
  
 // Set web server port number to 80
 WiFiServer server(80);
