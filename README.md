@@ -5,4 +5,12 @@ In this project we learn how to make IoT Based Home Automation using **ESP8266 W
 
 In this Home Automation System, we will control 4 home appliances connected to Relay using Local Web Server. The Wifi Module NodeMCU ESP8266 will Receive commands from the Web Page.
 <br>
-![**DEVICE CONNECTION**](https://github.com/Ogbonna-Joseph/HOME-AUTOMATION-WITH-ESP8266/blob/main/Home-Automation-using-Blynk-Circuit.jpg)
+<br>
+![DEVICE CONNECTION](https://github.com/Ogbonna-Joseph/HOME-AUTOMATION-WITH-ESP8266/blob/main/Home-Automation-using-Blynk-Circuit.jpg)
+<br>
+### COMPONENTS AND MODULES USED
+- ESP8266
+- FOUR CHANNEL RELAY
+- LED INDICATOR
+- BULD
+- CONNECTING WIRE
